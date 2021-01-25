@@ -2,7 +2,9 @@
 import json
 import os
 import ctypes
-
+try:
+    import discord
+    from discord.ext import commands
 
 
 os.system('echo \033[1m')
