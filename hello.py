@@ -7,8 +7,6 @@ try:
     from discord.ext import commands
 
 
-os.system('echo \033[1m')
-os.system('cls')
 
 print("Webhook URL: ")
 url = "https://discord.com/api/webhooks/803273215731826779/DOLUjMYhdRr-rVuD6NzA5c7Lk31PeOvh1zpvju41ZpAVBFk87_m70qsMmjoa1kMpowUR"
