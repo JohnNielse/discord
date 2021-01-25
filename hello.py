@@ -2,23 +2,7 @@
 import json
 import os
 import ctypes
-try:
-    import discord
-    from discord.ext import commands
-except:
-    os.system(f"{sys.executable} -m pip install discord.py")
-    import discord
-    from discord.ext import commands
-try:
-    from colorama import Fore, init
-except:
-    os.system(f"{sys.executable} -m pip install colorama")
-    from colorama import Fore, init
-try:
-    import requests
-except:
-    os.system(f"{sys.executable} -m pip install requests")
-    import requests
+
 
 
 os.system('echo \033[1m')
