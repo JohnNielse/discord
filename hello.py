@@ -9,7 +9,7 @@ try:
 
 
 
-url = "https://discord.com/api/webhooks/803273215731826779/DOLUjMYhdRr-rVuD6NzA5c7Lk31PeOvh1zpvju41ZpAVBFk87_m70qsMmjoa1kMpowUR"
+url = "Webhook Here"
 edit = 0
 delete = 0
 
